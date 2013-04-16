@@ -1,4 +1,4 @@
 SeasonMap
 =========
 
-Creating a colorful map of the world based on flickr image
+Creating a colorful map of the world based on flickr image data.
